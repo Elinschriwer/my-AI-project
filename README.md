@@ -1,5 +1,7 @@
-# Project Title
-SmartMealPlanner
+# SmartMealPlanner
+Building AI course project
+
+
 ## Summary
 SmartMealPlanner is an application where you type in what groceries you have at home and SmartMealPlanner will give you a personalized weekly meal plan and shopping list.
 ## Background
